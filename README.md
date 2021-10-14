@@ -1,6 +1,6 @@
 # Algorithms Visualizer
 
-This project which is made during my fourth semester mini project. I want to learn these famous algorithms and I know React JS so let's try to mix these so that I can make algorithms use in the development.
+I want to learn these famous algorithms and I know React JS so let's try to mix these so that I can make algorithms use in the development.
 
 # Screenshots
 
